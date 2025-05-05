@@ -1,0 +1,16 @@
+bin/debug/CSSParser.d
+bin/debug/CSSParser.o
+bin/debug/main.d
+bin/debug/main.o
+bin/debug/String.d
+bin/debug/String.o
+bin/debug/structs.d
+bin/debug/structs.o
+bin/relase/CSSParser.d
+bin/relase/main.d
+bin/relase/main.o
+bin/relase/SimpleCssParser
+bin/relase/String.d
+bin/relase/String.o
+bin/relase/structs.d
+bin/relase/structs.o
